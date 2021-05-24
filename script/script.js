@@ -72,7 +72,7 @@ const CONFIG = {
     {
       category: 'Internal',
       name: 'Pi-Hole',
-      url: 'http://toorpi.local/admin/',
+      url: 'http://raspberrypi.local/admin/',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'pihole',
       quickLaunch: true,
@@ -80,7 +80,7 @@ const CONFIG = {
     {
       category: 'Internal',
       name: 'NetData',
-      url: 'http://toorpi.local:19999/',
+      url: 'http://raspberrypi.local:19999/',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'netdata',
       quickLaunch: true,
