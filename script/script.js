@@ -40,7 +40,7 @@ const CONFIG = {
     {
       category: 'Internal',
       name: 'Grafana',
-      url: 'http://servent.local:8125',
+      url: 'http://tjn-serve.local:8125',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'grafana',
       quickLaunch: true,
@@ -64,7 +64,7 @@ const CONFIG = {
     {
       category: 'Internal',
       name: 'UniFi Controller',
-      url: 'https://servent.local:8443/',
+      url: 'https://tjn-serve.local:8443/',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'unifi',
       quickLaunch: true,
@@ -88,7 +88,7 @@ const CONFIG = {
     {
       category: 'Internal',
       name: 'Home Assistant',
-      url: 'http://servent.local:8123/',
+      url: 'http://tjn-serve.local:8123/',
       color: 'linear-gradient(135deg, #dd5145, #dd5145)',
       icon: 'hass',
       quickLaunch: true,
