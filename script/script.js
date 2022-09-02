@@ -82,7 +82,7 @@ const CONFIG = {
       name: 'Edge Router',
       url: 'https://erx.travisjneuman.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
-      icon: 'erx',
+      icon: 'edge',
       quickLaunch: true,
     },
     {
