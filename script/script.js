@@ -167,6 +167,14 @@ const CONFIG = {
     },
     {
       category: 'Services',
+      name: 'Oracle Cloud',
+      url: 'https://cloud.oracle.com/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'oracle',
+      quickLaunch: true,
+    },
+    {
+      category: 'Services',
       name: 'Adobe CC',
       url: 'https://creativecloud.adobe.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
