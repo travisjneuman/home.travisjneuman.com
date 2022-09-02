@@ -170,7 +170,7 @@ const CONFIG = {
       name: 'Adobe CC',
       url: 'https://creativecloud.adobe.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
-      icon: 'adobecc',
+      icon: 'adobe',
       quickLaunch: true,
     },
     {
