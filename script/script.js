@@ -381,7 +381,7 @@ const CONFIG = {
       icon: 'stackoverflow',
       quickLaunch: true,
     },
-    {
+    /*{
       category: 'Backups',
       name: 'uBlock',
       url: '/files/backup/ublock.txt',
@@ -396,7 +396,7 @@ const CONFIG = {
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'bookmarks',
       quickLaunch: true,
-    },
+    },*/
   ],
 
   /**
