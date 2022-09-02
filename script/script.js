@@ -31,7 +31,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'IP Cameras',
+      name: 'IP Cameras (Local)',
       url: 'http://192.168.1.10:8090/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'camera',
@@ -55,7 +55,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'Grafana',
+      name: 'Grafana (Local)',
       url: 'http://tjnrpi.local:3000/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'grafana',
@@ -63,7 +63,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'NetData',
+      name: 'NetData (Local)',
       url: 'http://tjnrpi.local:19999/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'netdata',
@@ -71,7 +71,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'PiHole',
+      name: 'PiHole (Local)',
       url: 'http://tjnrpi.local/admin',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'pihole',
@@ -95,7 +95,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'Charter Spectrum Modem',
+      name: 'Modem (Local)',
       url: 'http://192.168.100.1/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'modem',
