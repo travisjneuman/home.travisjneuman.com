@@ -31,6 +31,14 @@ const CONFIG = {
     },
     {
       category: 'Internal',
+      name: 'IP Cameras',
+      url: 'http://192.168.1.10:8090/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'camera',
+      quickLaunch: true,
+    },
+    {
+      category: 'Internal',
       name: 'Kemp',
       url: 'http://kemp.travisjneuman.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
