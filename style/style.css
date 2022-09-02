@@ -5,9 +5,9 @@
 
   /* fonts */
   --font-family: Roboto, sans-serif;
-  --base-font-size: 14px;
-  --font-weight-normal: 400;
-  --font-weight-bold: 700;
+  --base-font-size: 12px;
+  --font-weight-normal: 300;
+  --font-weight-bold: 500;
 }
 
 /* to download a different font locally:
@@ -16,7 +16,7 @@
 @font-face {
   font-family: Roboto;
   font-style: normal;
-  font-weight: 300;
+  font-weight: 200;
   src: local('Lato Regular'), local('Roboto-Regular'),
     url('../assets/fonts/Roboto-Regular.woff2') format('woff2'),
     url('../assets/fonts/Roboto-Regular.woff') format('woff');
@@ -25,7 +25,7 @@
 @font-face {
   font-family: Roboto;
   font-style: normal;
-  font-weight: 700;
+  font-weight: 500;
   src: local('Roboto Black'), local('Roboto-Black'),
     url('../assets/fonts/Roboto-Black.woff2') format('woff2'),
     url('../assets/fonts/Roboto-Black.woff') format('woff');
