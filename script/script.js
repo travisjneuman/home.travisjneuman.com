@@ -104,7 +104,7 @@ const CONFIG = {
     {
       category: 'Services',
       name: 'Proton',
-      url: 'https://proton.me/',
+      url: 'https://account.proton.me/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'proton',
       quickLaunch: true,
