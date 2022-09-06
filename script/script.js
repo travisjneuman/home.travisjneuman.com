@@ -183,6 +183,14 @@ const CONFIG = {
     },
     {
       category: 'Personal',
+      name: 'Business Card',
+      url: 'https://ovou.me/travisjneuman',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'ovou',
+      quickLaunch: true,
+    },
+    {
+      category: 'Personal',
       name: 'TJN',
       url: 'https://travisjneuman.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
