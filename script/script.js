@@ -119,6 +119,14 @@ const CONFIG = {
     },
     {
       category: 'Services',
+      name: 'Google Voice',
+      url: 'https://voice.google.com/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'gvoice',
+      quickLaunch: true,
+    },
+    {
+      category: 'Services',
       name: 'Google One',
       url: 'https://one.google.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
