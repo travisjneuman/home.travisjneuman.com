@@ -31,7 +31,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'IP Cameras (Local)',
+      name: 'IP Cam (Local)',
       url: 'http://192.168.1.10:8090/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'camera',
