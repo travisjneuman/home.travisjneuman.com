@@ -343,6 +343,14 @@ const CONFIG = {
     },
     {
       category: 'Tech Stuff',
+      name: '0365 Admin',
+      url: 'https://admin.microsoft.com/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'o365admin',
+      quickLaunch: true,
+    },
+    {
+      category: 'Tech Stuff',
       name: 'Udemy',
       url: 'https://udemy.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
