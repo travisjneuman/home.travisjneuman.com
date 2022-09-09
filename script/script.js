@@ -304,7 +304,7 @@ const CONFIG = {
     {
       category: 'Entertainment',
       name: 'On3',
-      url: 'https://on3.com/',
+      url: 'https://www.on3.com/teams/michigan-wolverines/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'on3',
       quickLaunch: true,
