@@ -351,6 +351,22 @@ const CONFIG = {
     },
     {
       category: 'Tech Stuff',
+      name: 'O365 Mail',
+      url: 'https://outlook.office.com/mail',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'outlook',
+      quickLaunch: true,
+    },
+    {
+      category: 'Tech Stuff',
+      name: '0365 Calendar',
+      url: 'https://outlook.office.com/calendar/view/month',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'calendar',
+      quickLaunch: true,
+    },
+    {
+      category: 'Tech Stuff',
       name: 'Udemy',
       url: 'https://udemy.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
