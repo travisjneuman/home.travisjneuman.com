@@ -127,6 +127,14 @@ const CONFIG = {
     },
     {
       category: 'Services',
+      name: 'YouTube Studio',
+      url: 'https://studio.youtube.com/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'studio',
+      quickLaunch: true,
+    },
+    {
+      category: 'Services',
       name: 'Google One',
       url: 'https://one.google.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
