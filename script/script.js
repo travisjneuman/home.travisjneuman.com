@@ -240,7 +240,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'Youtube',
-      url: 'https://youtube.com/channel/UCaLHcvvCFtVBjWkVHmE3VSQ',
+      url: 'https://youtube.com/@travisjneuman',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'youtube',
       quickLaunch: true,
