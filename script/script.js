@@ -79,7 +79,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'NetData (Disabled)',
+      name: 'NetData (rPi)',
       url: 'http://tjnrpi.local:19999/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'netdata',
