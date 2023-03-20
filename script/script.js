@@ -34,7 +34,7 @@ const CONFIG = {
       name: 'TrueNAS',
       url: 'http://truenas.local/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
-      icon: 'camera',
+      icon: 'truenas',
       quickLaunch: true,
     },
     {
@@ -42,7 +42,7 @@ const CONFIG = {
       name: 'AdGuard',
       url: 'http://192.168.1.37/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
-      icon: 'camera',
+      icon: 'adguard',
       quickLaunch: true,
     },
     {
@@ -50,7 +50,7 @@ const CONFIG = {
       name: 'Ubuntu VM (VNC via TrueNAS)',
       url: 'http://192.168.1.35:39595/vnc.html?autoconnect=1',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
-      icon: 'camera',
+      icon: 'ubuntuvm',
       quickLaunch: true,
     },
     {
