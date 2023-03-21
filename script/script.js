@@ -207,10 +207,18 @@ const CONFIG = {
     },
     {
       category: 'Services',
-      name: 'Adobe CC',
-      url: 'https://creativecloud.adobe.com/',
+      name: 'BARD',
+      url: 'https://bard.google.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
-      icon: 'adobe',
+      icon: 'googlebard',
+      quickLaunch: true,
+    },
+    {
+      category: 'Services',
+      name: 'ChatGPT',
+      url: 'https://chat.openai.com/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'chatgpt',
       quickLaunch: true,
     },
     {
