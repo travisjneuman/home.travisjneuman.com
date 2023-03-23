@@ -448,7 +448,7 @@ const CONFIG = {
     {
       category: 'Tech Stuff',
       name: 'Grabify',
-      url: 'https://grabify.com/',
+      url: 'https://grabify.link',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'grabify',
       quickLaunch: true,
