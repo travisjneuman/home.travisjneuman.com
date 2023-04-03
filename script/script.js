@@ -71,7 +71,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'Grafana (Disabled)',
+      name: 'Grafana (rPi)',
       url: 'http://tjnrpi.local:3000/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'grafana',
@@ -87,7 +87,7 @@ const CONFIG = {
     },
     {
       category: 'Internal',
-      name: 'PiHole (Disabled)',
+      name: 'PiHole (rPi)',
       url: 'http://tjnrpi.local/admin',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'pihole',
@@ -97,6 +97,14 @@ const CONFIG = {
       category: 'Internal',
       name: 'Edge Router (Local)',
       url: 'https://192.168.1.1/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'edge',
+      quickLaunch: true,
+    },
+    {
+      category: 'Internal',
+      name: 'Edge Switch (Local)',
+      url: 'https://192.168.1.100/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'edge',
       quickLaunch: true,
