@@ -12,10 +12,10 @@ const CONFIG = {
 *Search Service, just start typing!
 */
     {
-      name: 'Google',
+      name: 'StartPage',
       key: '*',
-      url: 'https://google.com',
-      search: '/search?q={}',
+      url: 'https://startpage.com',
+      search: '/sp/search',
       color: '#0e0e0e',
     },
     /**
