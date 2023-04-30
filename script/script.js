@@ -15,7 +15,7 @@ const CONFIG = {
       name: 'StartPage',
       key: '*',
       url: 'https://startpage.com',
-      search: '/sp/search?query=%s',
+      search: '/sp/search?query={}',
       color: '#0e0e0e',
     },
     /**
