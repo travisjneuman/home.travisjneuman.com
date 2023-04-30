@@ -14,7 +14,7 @@ const CONFIG = {
     {
       name: 'StartPage',
       key: '*',
-      url: 'https://startpage.com',
+      url: 'https://www.startpage.com/do/mypage.pl?prfe=af8f2d54d9febef83f26fd640bc4603c2cf09104794e4bd56fe16e52451a96fcfa78e437f538a4c8f228bc3ee57d23de1b9621b446246d9265a3e7322b50e75a591596775690f520ee1116',
       search: '/sp/search?query={}',
       color: '#0e0e0e',
     },
