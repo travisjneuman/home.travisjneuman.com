@@ -389,7 +389,7 @@ const CONFIG = {
       icon: 'sportsurge',
       quickLaunch: true,
     },
-    {
+   /** {
       category: 'Tech Stuff',
       name: '0365 Admin',
       url: 'https://admin.microsoft.com/',
@@ -412,7 +412,7 @@ const CONFIG = {
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'calendar',
       quickLaunch: true,
-    },
+    },*/
     {
       category: 'Tech Stuff',
       name: 'Udemy',
