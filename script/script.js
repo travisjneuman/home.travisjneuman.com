@@ -232,7 +232,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'Business Card',
-      url: 'https://ovou.me/travisjneuman',
+      url: 'https://info.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'ovou',
       quickLaunch: true,
