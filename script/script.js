@@ -303,7 +303,7 @@ const CONFIG = {
     },
     {
       category: 'Personal',
-      name: 'Universal Expert GPT',
+      name: 'Universal Expert',
       url: 'https://chat.openai.com/g/g-6HV8vXOAW-universal-expert',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'UniEx',
