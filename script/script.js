@@ -271,6 +271,14 @@ const CONFIG = {
     },
     {
       category: 'Personal',
+      name: 'TryHackMe',
+      url: 'https://tryhackme.travisjneuman/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'tryhackme',
+      quickLaunch: true,
+    },
+    {
+      category: 'Personal',
       name: 'Youtube',
       url: 'https://youtube.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
@@ -419,6 +427,14 @@ const CONFIG = {
       url: 'https://udemy.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'udemy',
+      quickLaunch: true,
+    },
+    {
+      category: 'Tech Stuff',
+      name: 'TryHackMe',
+      url: 'https://tryhackme.com/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'tryhackme',
       quickLaunch: true,
     },
     {
