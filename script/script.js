@@ -215,18 +215,18 @@ const CONFIG = {
     },
     {
       category: 'Services',
-      name: 'BARD',
-      url: 'https://bard.google.com/',
-      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
-      icon: 'googlebard',
-      quickLaunch: true,
-    },
-    {
-      category: 'Services',
       name: 'ChatGPT',
       url: 'https://chat.openai.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'chatgpt',
+      quickLaunch: true,
+    },
+    {
+      category: 'Services',
+      name: 'Gemini',
+      url: 'https://gemini.google.com/',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'gemini',
       quickLaunch: true,
     },
     {
