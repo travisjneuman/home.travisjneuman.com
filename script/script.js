@@ -29,7 +29,7 @@ const CONFIG = {
       icon: 'nest',
       quickLaunch: true,
     },
-    {
+   /**{
       category: 'Internal',
       name: 'TrueNAS',
       url: 'http://truenas.local/',
@@ -68,7 +68,7 @@ const CONFIG = {
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'plex',
       quickLaunch: true,
-    },
+    },*/
     {
       category: 'Internal',
       name: 'Grafana (rPi)',
@@ -173,14 +173,14 @@ const CONFIG = {
       icon: 'googlefi',
       quickLaunch: true,
     },
-    {
+    /**{
       category: 'Services',
       name: 'Google Domains',
       url: 'https://domains.google.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'googledomains',
       quickLaunch: true,
-    },
+    },*/
     {
       category: 'Services',
       name: 'Github',
@@ -189,14 +189,14 @@ const CONFIG = {
       icon: 'github',
       quickLaunch: true,
     },
-    {
+    /**{
       category: 'Services',
       name: 'Netlify',
       url: 'https://netlify.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'netlify',
       quickLaunch: true,
-    },
+    },*/
     {
       category: 'Services',
       name: 'Cloudflare',
@@ -256,7 +256,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'LinkedIn',
-      url: 'https://linkedin.com/in/travisjneuman',
+      url: 'https://linkedin.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'linkedin',
       quickLaunch: true,
@@ -264,7 +264,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'Github',
-      url: 'https://github.com/travisjneuman',
+      url: 'https://github.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'github',
       quickLaunch: true,
@@ -272,7 +272,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'Youtube',
-      url: 'https://youtube.com/@travisjneuman',
+      url: 'https://youtube.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'youtube',
       quickLaunch: true,
@@ -280,7 +280,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'Instagram',
-      url: 'https://instagram.com/travisjneuman',
+      url: 'https://instagram.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'instagram',
       quickLaunch: true,
@@ -288,7 +288,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'Twitter',
-      url: 'https://twitter.com/travisjneuman',
+      url: 'https://twitter.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'twitter',
       quickLaunch: true,
@@ -296,7 +296,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'Facebook',
-      url: 'https://facebook.com/travisjneuman',
+      url: 'https://facebook.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'facebook',
       quickLaunch: true,
@@ -304,7 +304,7 @@ const CONFIG = {
     {
       category: 'Personal',
       name: 'Universal Expert',
-      url: 'https://chat.openai.com/g/g-6HV8vXOAW-universal-expert',
+      url: 'https://ai.travisjneuman.com',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'UniEx',
       quickLaunch: true,
