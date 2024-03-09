@@ -302,6 +302,14 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
+      category: 'Personal',
+      name: 'Universal Expert GPT',
+      url: 'https://chat.openai.com/g/g-6HV8vXOAW-universal-expert',
+      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
+      icon: 'chatgpt',
+      quickLaunch: true,
+    },
+    {
       category: 'Entertainment',
       name: 'Youtube',
       url: 'https://youtube.com/',
