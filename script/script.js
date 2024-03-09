@@ -271,7 +271,7 @@ const CONFIG = {
     },
     {
       category: 'Personal',
-      name: 'TryHackMe',
+      name: ' THM',
       url: 'https://tryhackme.travisjneuman/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'tryhackme',
@@ -431,7 +431,7 @@ const CONFIG = {
     },
     {
       category: 'Tech Stuff',
-      name: 'TryHackMe',
+      name: ' THM',
       url: 'https://tryhackme.com/',
       color: 'linear-gradient(135deg, #006CA4, #0077B5)',
       icon: 'tryhackme',
